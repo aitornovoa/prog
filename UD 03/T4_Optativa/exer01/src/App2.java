@@ -56,7 +56,7 @@ public class App2{
                 }
             }
 
-            System.out.println("\nTropas restantes despois da rolda:");
+            System.out.println("\nTROPAS RESTANTES5");
             System.out.println("Defensor: " + tropasDefensoras + " tropas");
             System.out.println("Atacante: " + tropasAtacantes + " tropas");
             System.out.println("--------------------------------------------------");
