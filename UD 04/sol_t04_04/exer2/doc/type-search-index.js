@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"xestorTarefas","l":"HashPassword"},{"p":"xestorTarefas","l":"Tarefa"},{"p":"xestorTarefas","l":"Usuario"}];updateSearchResults();
